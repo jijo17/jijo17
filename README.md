@@ -47,8 +47,8 @@
 
 <!-- <h3> Git </h3> -->
 
-[![Jijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijo17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijo17&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Jijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijos17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijos17&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
   
 <!--
