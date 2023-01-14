@@ -46,10 +46,6 @@
 - 🖥 &nbsp;
 
 <!-- <h3> Git </h3> -->
-
-[![Jijo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jijos17&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jijos17&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
   
 <!--
 **jijo17/jijo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
